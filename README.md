@@ -3,3 +3,24 @@
 
 ## Admin panel
 ![Screenshot](EMS/dashboard.png)
+
+## Log In
+![Screenshot](EMS/login.png)
+
+## Departments
+![Screenshot](EMS/dep.png)
+![Screenshot](EMS/dep_create.png)
+
+
+
+## Permissions
+![Screenshot](EMS/permissions.png)
+![Screenshot](EMS/permissions_create.png)
+
+
+## Permissions
+![Screenshot](EMS/roles.png)
+![Screenshot](EMS/roles_create.png)
+
+## Leave
+![Screenshot](EMS/leave.png)
