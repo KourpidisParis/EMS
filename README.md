@@ -2,5 +2,4 @@
 
 
 ## Admin panel
-![dashboard](images/ADMIN1.png)
-
+![Screenshot](EMS/dashboard.png)
